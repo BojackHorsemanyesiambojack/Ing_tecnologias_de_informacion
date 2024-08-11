@@ -182,4 +182,4 @@ test.appendChild(element);
 //La lista 'test' renderizara 'element' dentro de si.
 ```
 
-###Ejercicio practico: Crea una pagina que muestre un numero que inicie en 0, al lado un boton que cuando lo presiones haga que el numero vaya aumentando.
+### Ejercicio practico: Crea una pagina que muestre un numero que inicie en 0, al lado un boton que cuando lo presiones haga que el numero vaya aumentando.
