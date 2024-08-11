@@ -168,3 +168,18 @@ function decirVerdad(){
 ```
 
 #### 1:7 createElement(), appendChild()
+
+Podemos crear un nuevo elemento html con la funcion createElment() que recibe en string el tipo de algun objeto HTML,
+a la vez tenemos la funcion appendChild la cual hace que un objeto html renderize otro elemento dentro de si y se accede dentro de objetos html en js.
+<b>Ejemplo</b>
+```Javascript
+let test = document.getElementById('test'); //supongamos que es una lista
+
+let element document.createElement('li');
+element.innerText = 'Esto es el objeto de una lista';
+test.appendChild(element);
+
+//La lista 'test' renderizara 'element' dentro de si.
+```
+
+###Ejercicio practico: Crea una pagina que muestre un numero que inicie en 0, al lado un boton que cuando lo presiones haga que el numero vaya aumentando.
