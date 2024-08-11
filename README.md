@@ -1,14 +1,15 @@
-# Ing_tecnologias_de_informacion
-Material de estudio  mdfks
+# Ing_tecnologias_de_informacion - Material de estudio mdfks
 
+## Nada de introducciones, empecemos.
 
-## Material de estudio
+## 1-Javascript
 
-### Nada de introducciones, empecemos.
+### 1- Basicos
 
+#### 1:1 - Hola Mundo en javascript
 
-#### 1-Javascript
-
+Para hacer un hola mundo en javascript podemos usar la funcion:
+<code>alert()</code>
 
 
 
